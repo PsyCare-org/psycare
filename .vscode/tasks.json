@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start",
+            "type": "shell",
+            "group": "build",
+            "presentation": {
+                "panel": "dedicated",
+                "clear": true
+            },
+            "command": "cd src/ && node start.js"
+        }
+    ]
+}

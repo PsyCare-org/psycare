@@ -1,0 +1,8 @@
+{
+  "name": "psycare",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
