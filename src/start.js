@@ -14,7 +14,7 @@ const run = async () => {
                 name: 'Data API',
                 prefixColor: 'bgYellow',
                 command: 'npm start',
-                cwd: path.join(__dirname, '../../psycare-data-api')
+                cwd: path.join(__dirname, '../../psycare-api')
             }
         ])
     } catch(err) {
